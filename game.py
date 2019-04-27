@@ -4,6 +4,8 @@ import array
 # * - empty, O, X
 board = [["*","*","*"], ["*","*","*"], ["*","*","*"]]
 
+print hello 
+
 # keeps track of who is going
 # true - "O" turn, false "X" turn
 # by default, O goes first
